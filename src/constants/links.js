@@ -8,7 +8,7 @@ export default [
         text: 'tours'
     },
     {
-        path:'/blog', 
+        path:'/blogs', 
         text: 'blog'
     },
     {
